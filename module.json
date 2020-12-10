@@ -1,0 +1,12 @@
+{
+    "name": "Arcane-Pulse",
+    "options": {
+        "niceName": "无限爆裂球",
+        "guiName": "Arcane-Pulse(无限爆裂球)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC",
+    "description": "魔导士(普通攻击) - 强力爆裂球/无弹道/无冷却/自动连发/全屏锁定/无敌高度"
+}
