@@ -1,4 +1,4 @@
-# Arcane-Pulse
+# Arcane-Pulse (与模组 skill-prediction 不兼容)
 
 # 既然拦不住某人公开源码了, 那大家就一起享受吧...
 
