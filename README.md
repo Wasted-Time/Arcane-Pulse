@@ -11,8 +11,13 @@
 /8频道 键入命令 | 效果说明
 --- | ---
 zc | 开启/关闭模组
-觉醒的气息 | 开启/关闭 无敌高度
-低级MP恢复药水 | 开启/关闭 无敌高度
+
+--
+
+觉醒的气息 - 无敌高度 [开启/关闭]
+
+低级MP恢复药水 - 无敌高度 [开启/关闭]
+
 ---
 
 ![screenshot](https://github.com/tera-mod/Arcane-Pulse/blob/main/screenshot/01.png)
