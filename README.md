@@ -1,22 +1,22 @@
-# Arcane-Pulse (与模组 skill-prediction 不兼容)
+# Arcane-Pulse (Dont Use this with Bern or NgSp)
 
-# 既然拦不住某人公开源码了, 那大家就一起享受吧...
+# Have fun Together...
 
-(但愿 "TERA台服" 能够顶得住轰炸吧)
+(We hope Tera server can handle this)
 
-功能简介: https://www.bilibili.com/video/BV1Jv411b7hy/
+Function introduction: https://www.bilibili.com/video/BV1Jv411b7hy/
 
 ------
 
-/8频道 键入命令 | 效果说明
+/8 Channel | Effect description
 --- | ---
-zc | 开启/关闭模组
+zc | Turn on/off the module
 
 ---
 
-觉醒的气息 - 无敌高度 [开启/关闭]
+Breath of Awakening-Invincible Height [On/Off]
 
-低级MP恢复药水 - 无敌高度 [开启/关闭]
+Low-level MP Recovery Potion-Invincible Height [On/Off]
 
 ---
 
