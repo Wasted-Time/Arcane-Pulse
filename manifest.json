@@ -19,7 +19,7 @@
         "S_DESPAWN_NPC": 3,
         "S_INSTANT_MOVE": 3,
         "S_NPC_LOCATION": 3,
-        "S_SPAWN_NPC": 11,
+        "S_SPAWN_NPC": 12,
         "S_USER_EFFECT": 1
     }
 }
