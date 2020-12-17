@@ -78,7 +78,7 @@ module.exports = function ArcanePulse(mod) {
 		if (GAME.me.is(event.target) && event.circle==2 && event.operation==1) mod.clearAllIntervals()
 	})
 	
-	mod.hook('S_SPAWN_NPC', 11, event => {
+	mod.hook('S_SPAWN_NPC', 12, event => {
 		npcs.set(event.gameId, event.loc)
 	})
 	
