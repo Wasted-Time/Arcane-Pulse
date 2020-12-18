@@ -1,5 +1,9 @@
 # Arcane-Pulse (Dont Use this with Bern or NgSp)
 
+# Sorcerer-Powerful Burst Ball / No Ballistic / No Cooldown / Automatic Burst / Full Screen Lock / Invincible Height
+
+
+
 # Have fun Together...
 
 (We hope Tera server can handle this)
