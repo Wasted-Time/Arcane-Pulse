@@ -26,4 +26,4 @@ Low-level MP Recovery Potion-Invincible Height [On/Off]
 
 
 # forked from tera-mod BEST REGARDS
-![screenshot](https://github.com/tera-mod/Arcane-Pulse/blob/main/screenshot/01.png)
+![screenshot](https://gyazo.com/ca95ed0426caf7d438980b4b2a349d61)
